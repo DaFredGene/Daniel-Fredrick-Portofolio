@@ -15,6 +15,9 @@
   - My capstone team was selected as one of the 30 teams eligible to compete in the entrepreneur track, outperforming hundreds of other teams.
 
 ## Projects
+- **Air Quality-Data Analysis Project**
+  - Determined which region in China (among Aotizhongxin, Changping, and Dingling) has high O3 levels while having low SO2, NO2, and CO levels, making it suitable for cultivating kangkung using ozone technology for disinfection and bacterial sterilization.
+  - Assessed the optimal harvest cycle for kangkung given a one-month harvest period, with ideal temperatures of 25°C to 30°C and high rainfall, to determine the best month to schedule the harvest.
 - **Article Page-Data Analysis Project**
   - Analyzed the characteristics of pages with a high Bounce Rate.
   - Examined among different types of sources/mediums to determine the percentage of pages with good engagement, where a page should have a bounce rate below average, page views per session, and an average time on page above average.
