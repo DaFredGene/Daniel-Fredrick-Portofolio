@@ -23,6 +23,8 @@
   - Examined among different types of sources/mediums to determine the percentage of pages with good engagement, where a page should have a bounce rate below average, page views per session, and an average time on page above average.
 - **Plant Disease Image Classification for Bangkit by google,Goto, and Traveloka**
   - Created a **Plant Disease Image Classification** for my group's application: Tamantic using **Tensorflow** and **Keras**, achieved a training accuracy of 97% and validation accuracy of 92%, which meant that the model is capable to determine the diseases of several plants accurately.
+- **Steel Compressive Strength Prediction**
+  - Predicted Steel Compressive Strength using Multiple Dense Layer, which was done with the help of **Tensorflow** and **Keras**, and multiple features such as age, fine aggregate, coarse aggregate, etc.
 <!---
 DaFredGene/DaFredGene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
