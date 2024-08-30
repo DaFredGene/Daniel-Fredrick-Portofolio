@@ -1,5 +1,5 @@
-title: Daniel Fredrick Genesio
-theme: jeykll-theme-minimal
+- Hi i'm Daniel Fredrick Genesio
+
 
 
 <!---
