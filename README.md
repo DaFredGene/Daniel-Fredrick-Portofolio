@@ -1,6 +1,7 @@
 # Daniel Fredrick Genesio
 
 ## Interests💻
+-**Data Analytics**
 - **Data Science**
 - **Machine Learning**
 - **Artificial Intelligence**
