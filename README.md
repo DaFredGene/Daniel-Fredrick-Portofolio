@@ -6,7 +6,7 @@
 - **Artificial Intelligence**
 
 ## Education
-- Final year physics student with a consentration in system and instrumentation at Universitas Indonesia
+- Final year **physics** student with a consentration in **system and instrumentation** at **Universitas Indonesia**
 
 ## Experience
 - **Machine Learning Cohort**: Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka  
@@ -21,6 +21,8 @@
 - **Article Page-Data Analysis Project**
   - Analyzed the characteristics of pages with a high Bounce Rate.
   - Examined among different types of sources/mediums to determine the percentage of pages with good engagement, where a page should have a bounce rate below average, page views per session, and an average time on page above average.
+- **Plant Disease Image Classification for Bangkit by google,Goto, and Traveloka**
+  -Created a **Plant Disease Image Classification** for my group's application: Tamantic using **Tensorflow** and **Keras**, achieved a training accuracy of 97% and validation accuracy of 92%, which meant that the model is capable to determine the diseases of several plants accurately.
 <!---
 DaFredGene/DaFredGene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
