@@ -25,6 +25,8 @@
   - Created a **Plant Disease Image Classification** for my group's application: Tamantic using **Tensorflow** and **Keras**, achieved a training accuracy of 97% and validation accuracy of 92%, which meant that the model is capable to determine the diseases of several plants accurately.
 - **Steel Compressive Strength Prediction**
   - Predicted Steel Compressive Strength using Multiple Dense Layer, which was done with the help of **Tensorflow** and **Keras**, and multiple features such as age, fine aggregate, coarse aggregate, etc.
+- **Steel Fatique Model Comparisson and Prediction**
+  - Analyze and simplified the features used in the model using **Principal Component Analysis** to reduce the data dimension and obtain the optimal number of features, after that, using the zip function in python, compared the mean squared error of several machine learning algorithm that are used for regression, such as **linear regression, logistic regression, ridge, XGB regressor, Decision Tree regressor, Gradient Boosting regressor, Ada Boost regressor, and Bagging regressor**. The output of this model would allow us to predict steel fatique based on the element consisted in the steel.
 <!---
 DaFredGene/DaFredGene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
