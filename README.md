@@ -21,8 +21,10 @@
 - **Article Page-Data Analysis Project**
   - Analyzed the characteristics of pages with a high Bounce Rate.
   - Examined among different types of sources/mediums to determine the percentage of pages with good engagement, where a page should have a bounce rate below average, page views per session, and an average time on page above average.
-- **Plant Disease Image Classification for Bangkit by google,Goto, and Traveloka**
-  - Created a **Plant Disease Image Classification** for my group's application: Tamantic using **Tensorflow** and **Keras**, achieved a training accuracy of 97% and validation accuracy of 92%, which meant that the model is capable to determine the diseases of several plants accurately.
+- **Plant Disease Image Classification for Bangkit by Google, Goto, and Traveloka**
+  - Created a **Plant Disease Image Classification** model for my group's application, Tamantic, using **TensorFlow** and **Keras**. The model achieved a training accuracy of 97% and a validation accuracy of 92%, demonstrating its capability to accurately identify diseases in several plants. The image below is taken from our application demo, where the model I successfully created was deployed by the cloud computing team.
+
+  ![Application Demo](https://ibb.co.com/JsnTVbr)
 - **Steel Compressive Strength Prediction**
   - Predicted Steel Compressive Strength using Multiple Dense Layer, which was done with the help of **Tensorflow** and **Keras**, and multiple features such as age, fine aggregate, coarse aggregate, etc.
 - **Steel Fatique Model Comparisson and Prediction**
