@@ -29,6 +29,9 @@
   - Created a **Plant Disease Image Classification** model for my group's application, Tamantic, using **TensorFlow** and **Keras**. The model achieved a training accuracy of 97% and a validation accuracy of 92%, demonstrating its capability to accurately identify diseases in several plants. The image below is taken from our application demo, where the model I successfully created was deployed by the cloud computing team.
 
   ![Application Demo](https://i.ibb.co/vcQrwPX/8-EDF0-C0-B-93-BF-4500-AA31-8-E347-B69-DC67.jpg)
+- **NLP With Disaster Tweets**🌋🏴‍☠️
+  - Classified which tweets are categorized as potential disaster warning and which tweets aren't
+  - This is a part of Kaggle Competition, where the highest precentage obtained by the top scorer is 0.84, while my model managed to get a peak accuracy of 80%
 - **Steel Compressive Strength Prediction**💪🏽
   - Predicted Steel Compressive Strength using Multiple Dense Layer, which was done with the help of **Tensorflow** and **Keras**, and multiple features such as age, fine aggregate, coarse aggregate, etc.
 - **Steel Fatique Model Comparisson and Prediction**🧪⚛️
